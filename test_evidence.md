@@ -1,5 +1,7 @@
 # Issue Testing via n8n workflow
 
+***Note: Please click on each image to open it full size in a new tab for better readability as certain images had to be scaled down to fit all required content.***
+
 ## Test 1
 
 n8n workflow\
